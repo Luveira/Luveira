@@ -5,7 +5,7 @@
 <table align="center" border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse; border: none;">
   <!-- LINHA 1 -->
   <tr>
-    <td align="right" valign="bottom" style="border: none;">
+    <td align="center" valign="bottom" style="border: none;">
       <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1500&pause=1000&color=74D24F&center=true&vCenter=true&width=250&height=45&lines=Master+in" />
     </td>
     <td rowspan="2" align="center" valign="middle" style="border: none; padding: 0 15px;">
@@ -17,10 +17,10 @@
   </tr>
   <!-- LINHA 2 -->
   <tr>
-    <td align="right" valign="top" style="border: none;">
+    <td align="center" valign="top" style="border: none;">
       <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1500&pause=1000&delay=1500&color=74D24F&center=true&vCenter=true&width=320&height=45&lines=Sustainable+Development" />
     </td>
-    <td align="left" valign="top" style="border: none;">
+    <td align="center" valign="top" style="border: none;">
       <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1500&pause=1000&delay=1500&color=74D24F&center=true&vCenter=true&width=320&height=45&lines=Technology+and+Modeling" />
     </td>
   </tr>
