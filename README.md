@@ -2,19 +2,15 @@
 
 # Hi there! I'm Gabriel 🌱
 
-<table align="center" border="0">
-  <tr>
-    <td align="center" valign="middle">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=74D24F&center=true&vCenter=true&multiline=true&width=300&height=100&duration=3000&lines=Master+in;Sustainable+Development" />
-    </td>
-    <td align="center" valign="middle">
-      <img src="https://raw.githubusercontent.com/seu-usuario/seu-repo/main/image_1e1a7f.png" width="80" />
-    </td>
-    <td align="center" valign="middle">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=74D24F&center=true&vCenter=true&multiline=true&width=300&height=100&duration=3000&lines=Concentration+Area;Technology+and+Modeling" />
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <!-- Texto 1: Sem atraso inicial -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1500&pause=1000&color=74D24F&center=true&vCenter=true&multiline=true&width=350&height=100&lines=Master+in;Sustainable+Development" align="center" />
+  
+  <img src="https://raw.githubusercontent.com/Luveira/Luveira/main/Images/Tree_NBG.png" width="100" align="center" />
+
+  <!-- Texto 2: Com atraso de 300ms para compensar a sincronia -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1500&pause=1000&delay=700&color=74D24F&center=true&vCenter=true&multiline=true&width=350&height=100&lines=Concentration+Area;Technology+and+Modeling" align="center" />
+</p>
 
 ### MSc in Sustainable Development by Federal University of Cariri
 **Technology and Modeling Track**
