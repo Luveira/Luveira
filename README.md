@@ -24,6 +24,10 @@
 
   <!-- SEÇÃO EM PORTUGUÊS -->
   <div id="português">
+    <h2><samp>
+      🇧🇷 Português
+    </samp><h2/>
+    
     <samp>
       Seção em português em construção 🚧
     </samp>
@@ -36,6 +40,10 @@
 
   <!-- SEÇÃO EM INGLÊS -->
   <div id="english">
+    <h2><samp>
+      🇺🇲 English
+    </samp><h2/>
+      
     <samp>
       English Section in construction 🚧
     </samp>
