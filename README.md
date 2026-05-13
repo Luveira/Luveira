@@ -2,19 +2,11 @@
 
 # Hi there! I'm Gabriel 🌱
 
-<table align="center" border="0">
-  <tr>
-    <td align="center" valign="middle">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=74D24F&center=true&vCenter=true&multiline=true&width=350&height=100&duration=3000&lines=Master+in;Sustainable+Development" alt="Master in Sustainable Development">
-    </td>
-    <td align="center" valign="middle">
-      <img src="https://raw.githubusercontent.com/Luveira/Luveira/main/Images/Tree_NBG.png" width="100" alt="Tree">
-    </td>
-    <td align="center" valign="middle">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=74D24F&center=true&vCenter=true&multiline=true&width=350&height=100&duration=3000&lines=Concentration+Area;Technology+and+Modeling" alt="Concentration Area Technology and Modeling">
-    </td>
-  </tr>
-</table>
+<p align="center" style="white-space: nowrap;">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=74D24F&center=true&vCenter=true&multiline=true&width=350&height=100&lines=Master+in;Sustainable+Development" align="center" />
+  <img src="https://raw.githubusercontent.com/Luveira/Luveira/main/Images/Tree_NBG.png" width="100" style="display: inline-block; vertical-align: middle;" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=74D24F&center=true&vCenter=true&multiline=true&width=350&height=100&lines=Concentration+Area;Technology+and+Modeling" align="center" />
+</p>
 
 ### MSc in Sustainable Development by Federal University of Cariri
 **Technology and Modeling Track**
