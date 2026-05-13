@@ -26,10 +26,11 @@
   <div id="português">
     <h2><samp>
       📌 Português
-    <h2/>
+    </samp></h2>
     
   
       Seção em português em construção 🚧
+      
 
       
   </div>
