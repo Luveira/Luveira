@@ -3,9 +3,9 @@
 # Hi there! I'm Gabriel 🌱
 
 <!-- Referência ao arquivo na pasta assets -->
-<img src="./images/Titles.gif" width="600" alt="MSc in Sustainable Development - Tech and Modeling">
+<img src="./Images/Hello_Gif.gif" width="600" alt="MSc in Sustainable Development - Tech and Modeling">
 
-### MSc in Sustainable Development
+### MSc in Sustainable Development by Federal University of Cariri
 **Technology and Modeling Track**
 
 ---
