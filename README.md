@@ -4,8 +4,6 @@
   </h1>
   
   <img src="https://raw.githubusercontent.com/Luveira/Luveira/main/Images/Presenting_NoBG.gif" width="800" alt="Tree">
-
-
 </div>
 
 <div align="center">
@@ -23,16 +21,9 @@
   <br>
 
   <!-- SEÇÃO EM PORTUGUÊS -->
-  <div id="português">
-    <h2><samp>
-      📌 Português
-    </samp></h2>
-    
-  
-      Seção em português em construção 🚧
-      
-
-      
+  <div id="📌 Português">
+    <h2><samp>🇧🇷 Português</samp></h2>
+    <p><samp>Seção em português em construção 🚧</samp></p>
   </div>
 
   <br><br>
@@ -40,15 +31,9 @@
   <br>
 
   <!-- SEÇÃO EM INGLÊS -->
-  <div id="english">
-    <h2><samp>
-      📌 English
-    </samp><h2/>
-      
-
-      English Section in construction 🚧
-
+  <div id="📌 English">
+    <h2><samp>🇺🇸 English</samp></h2>
+    <p><samp>English Section in construction 🚧</samp></p>
+  </div>
 </div>
-
-
 
