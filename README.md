@@ -4,19 +4,19 @@
 
 <p align="center">
   <!-- COLUNA ESQUERDA -->
-  <div style="display: inline-grid; vertical-align: middle;">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1500&pause=1000&color=74D24F&center=true&vCenter=true&width=300&height=40&lines=Master+in" />
+  <span style="display: inline-block; vertical-align: middle;">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1500&pause=1000&color=74D24F&center=true&vCenter=true&width=250&height=40&lines=Master+in" /><br/>
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1500&pause=1000&delay=1500&color=74D24F&center=true&vCenter=true&width=300&height=40&lines=Sustainable+Development" />
-  </div>
+  </span>
 
   <!-- CENTRO: ÁRVORE -->
-  <img src="https://raw.githubusercontent.com/Luveira/Luveira/main/Images/Tree_NBG.png" width="100" style="vertical-align: middle; margin: 0 20px;" />
+  <img src="https://raw.githubusercontent.com/Luveira/Luveira/main/Images/Tree_NBG.png" width="100" style="vertical-align: middle; margin: 0 15px;" />
 
   <!-- COLUNA DIREITA -->
-  <div style="display: inline-grid; vertical-align: middle;">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1500&pause=1000&color=74D24F&center=true&vCenter=true&width=350&height=40&lines=Concentration+Area" />
+  <span style="display: inline-block; vertical-align: middle;">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1500&pause=1000&color=74D24F&center=true&vCenter=true&width=250&height=40&lines=Concentration+Area" /><br/>
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1500&pause=1000&delay=1500&color=74D24F&center=true&vCenter=true&width=350&height=40&lines=Technology+and+Modeling" />
-  </div>
+  </span>
 </p>
 
 ### MSc in Sustainable Development by Federal University of Cariri
