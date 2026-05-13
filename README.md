@@ -1,4 +1,4 @@
-<div align="center">
+<div align="center" style="font-family: 'Courier New', Courier, monospace;">
 
 # Hi there! I'm Gabriel 🌱
 
