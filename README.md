@@ -43,7 +43,7 @@
   <div id="english">
     <h2><samp>
       📌 English
-      <h2/>
+    </samp><h2/>
       
 
       English Section in construction 🚧
