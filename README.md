@@ -9,15 +9,30 @@
 </div>
 
 <div align="center">
-  <h3>
-    <samp>🔤 Escolha seu Idioma | Choose Your Language</samp>
-  </h3>
-  
+  <!-- Cabeçalho de Seleção de Idioma -->
+  <h3><samp>🈂️ Escolha seu Idioma | Choose Your Language</samp></h3>
   <a href="#português">
     <img src="https://img.shields.io/badge/BR-PORTUGUÊS-333333?style=for-the-badge" alt="Português">
   </a>
   <a href="#english">
-    <img src="https://img.shields.io/badge/GB-ENGLISH-333333?style=for-the-badge" alt="English">
+    <img src="https://img.shields.io/badge/EN-ENGLISH-333333?style=for-the-badge" alt="English">
   </a>
+
+  <br><br>
+  <hr>
+  <br>
+
+  <!-- SEÇÃO EM PORTUGUÊS -->
+  <div id="português">
+    Seção em português
+  </div>
+
+  <br><br>
+  <hr>
+  <br>
+
+  <!-- SEÇÃO EM INGLÊS -->
+  <div id="english">
+    English Section
 </div>
 
