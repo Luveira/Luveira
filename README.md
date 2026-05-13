@@ -9,24 +9,15 @@
 </div>
 
 <div align="center">
-  <!-- Botões de Idioma -->
+  <h3>
+    <samp>🔤 Escolha seu Idioma | Choose Your Language</samp>
+  </h3>
+  
   <a href="#português">
-    <img src="https://img.shields.io/badge/BR-PORTUGUÊS-grey?style=for-the-badge" alt="Português">
+    <img src="https://img.shields.io/badge/BR-PORTUGUÊS-333333?style=for-the-badge" alt="Português">
   </a>
   <a href="#english">
-    <img src="https://img.shields.io/badge/GB-ENGLISH-grey?style=for-the-badge" alt="English">
+    <img src="https://img.shields.io/badge/GB-ENGLISH-333333?style=for-the-badge" alt="English">
   </a>
-
-  <hr>
-
-  <!-- Seção em Português -->
-  <h2 id="português">📌 Português</h2>
-  <samp>Olá! Sou o Gabriel, mestre em Desenvolvimento Sustentável.</samp>
-
-  <br><br><br><br> <!-- Espaço para testar a rolagem -->
-
-  <!-- Seção em Inglês -->
-  <h2 id="english">📌 English</h2>
-  <samp>Hi! I'm Gabriel, MSc in Sustainable Development.</samp>
 </div>
 
