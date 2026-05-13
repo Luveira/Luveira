@@ -30,7 +30,7 @@
     
   
       Seção em português em construção 🚧
-    <samp/>
+
       
   </div>
 
