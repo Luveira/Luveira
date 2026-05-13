@@ -1,16 +1,13 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**Luveira/Luveira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi there! I'm Gabriel 🌱
 
-Here are some ideas to get you started:
+<!-- Referência ao arquivo na pasta assets -->
+<img src="./images/Titles.gif" width="600" alt="MSc in Sustainable Development - Tech and Modeling">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### MSc in Sustainable Development
+**Technology and Modeling Track**
+
+---
+
+</div>
