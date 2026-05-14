@@ -37,6 +37,7 @@
 
   <p>
     <samp>
+      <br>
       Atualmente, estou trabalhando na construção do meu portifólio. Sempre buscando diversificar o meu conhecimento para além da academia e buscando levar rigor acadêmico aos cases aqui presentes 🧪👨🏻‍💻<br>
       Portifólio em construção 🚧
     </samp>
@@ -52,19 +53,20 @@
   <h2><samp>🇺🇸 English</samp></h2>
   <p>
     <samp>
-      A Materials Engineer by training, I hold a Master’s degree in Sustainable Regional Development from the Federal University of Cariri (UFCA). During my dissertation research:
+      Graduated in Materials Engineering, I earned my Master's in Regional Sustainable Development from the Federal University of Cariri (UFCA). During my dissertation research:
     </samp>
   </p>
 
   <samp>
-    ✅ I modeled Time Series using Discrete Bayesian Networks (DBN), ARIMA, SVR, GRU, and ETS (Error, Trend, Seasonal / State Space Version of Exponential Smoothing)<br>
-    ✅ I applied the Online Learning paradigm for series with Concept Drift and Ensemble Learning techniques<br>
+    ✅ I modeled Time Series using <em>Discrete Bayesian Networks</em> (DBN), ARIMA, SVR, GRU, and ETS (State Space Version of <em>Exponential Smoothing</em>)<br>
+    ✅ I applied the Online Learning paradigm for Series with <em>Concept Drift</em> and <em>Ensemble Learning</em> techniques<br>
     ✅ I worked with hypothesis testing for Time Series forecast comparison: Diebold-Mariano
   </samp>
 
   <p>
     <samp>
-      Currently, I am building my portfolio. Always seeking to diversify my knowledge beyond academia and aiming to bring academic rigor to the cases presented here 🧪👨🏻‍💻<br>
+      Currently, I am working on building my portfolio. Always seeking to diversify my knowledge beyond academia and aiming to bring academic rigor to the cases presented here 🧪👨🏻‍💻
+      <br><br>
       Portfolio under construction 🚧
     </samp>
   </p>
