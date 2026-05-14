@@ -65,8 +65,9 @@
 
   <p>
     <samp>
+      <br>
       Currently, I am working on building my portfolio. Always seeking to diversify my knowledge beyond academia and aiming to bring academic rigor to the cases presented here 🧪👨🏻‍💻
-      <br><br>
+      <br>
       Portfolio under construction 🚧
     </samp>
   </p>
